@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jian Wang"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : “SOKENDAI” #"Your biography for the left-hand sidebar"
   location         : "Tokyo Japan"
-  employer         :
+  employer         : "Hitachi Astemo, Ltd."
   pubmed           : 
   googlescholar    : 
   email            :
