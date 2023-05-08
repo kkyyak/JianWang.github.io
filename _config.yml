@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Wang / Posonal Homepage"
+title                    : "Jian Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jian Wang"
 description              : &description "personal description"
