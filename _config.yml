@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : SOKENDAI #"Your biography for the left-hand sidebar"
   location         : "Tokyo Japan"
-  employer         : "Hitachi Astemo, Ltd."
+  employer         : #"Hitachi Astemo, Ltd."
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
